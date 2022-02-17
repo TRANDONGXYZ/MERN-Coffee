@@ -9,8 +9,8 @@ You can see the web demo here: https://merncoffeealpha.herokuapp.com/
 You can refer to the video here: https://youtu.be/h97DFm8wuYE
 
 Group member information:
-- Nguyen Tran Thien Toan
-- Nguyen Huu Tuan
-- Le Tran Gia Bao
-- Tran Dong Ba
-- Le Van Dong
+- Nguyễn Trần Thiện Toàn
+- Nguyễn Hữu Tuấn
+- Lê Trần Gia Bảo
+- Trần Đông Ba
+- Lê Văn Đông
