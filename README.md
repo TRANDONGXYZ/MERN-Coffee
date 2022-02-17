@@ -1,16 +1,16 @@
 # MERN Coffee
 
-MERN là ứng dụng web bán các loại thức uống khác nhau. Ứng dụng cho phép người dùng đặt hàng, mua hàng, cho phép Admin có thể kiểm soát đơn hàng, thông tin khách hàng, thông tin về khuyến mãi, ...
+MERN is a web application that sells different types of drinks. The application allows users to place orders and purchases, allowing Admin to control orders, customer information, information about promotions, ...
 
-Ứng dụng được code bằng Bootstrap đối với Frontend và NodeJS đối với Backend, ngoài ra còn sử dụng thêm 1 số công cụ khác nữa, các bạn có thể xem thêm trong source code.
+The application is coded with Bootstrap for Frontend and NodeJS for Backend, in addition to using a number of other tools, you can see more in the source code.
 
-Các bạn có thể xem demo web tại đây: https://merncoffeealpha.herokuapp.com/
+You can see the web demo here: https://merncoffeealpha.herokuapp.com/
 
-Các bạn có thể tham khảo video tại đây: https://youtu.be/h97DFm8wuYE
+You can refer to the video here: https://youtu.be/h97DFm8wuYE
 
-Thông tin thành viên nhóm:
-- Nguyễn Trần Thiện Toàn
-- Nguyễn Hữu Tuấn
-- Lê Trần Gia Bảo
-- Trần Đông Ba
-- Lê Văn Đông
+Group member information:
+- Nguyen Tran Thien Toan
+- Nguyen Huu Tuan
+- Le Tran Gia Bao
+- Tran Dong Ba
+- Le Van Dong
