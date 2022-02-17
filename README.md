@@ -6,7 +6,7 @@ MERN là ứng dụng web bán các loại thức uống khác nhau. Ứng dụn
 
 Các bạn có thể xem demo web tại đây: https://merncoffeealpha.herokuapp.com/
 
-Các bạn có thể tham khảo video tại đây: 
+Các bạn có thể tham khảo video tại đây: https://youtu.be/h97DFm8wuYE
 
 Thông tin thành viên nhóm:
 - Nguyễn Trần Thiện Toàn
